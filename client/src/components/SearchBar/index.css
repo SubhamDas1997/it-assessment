@@ -1,0 +1,15 @@
+.searchBarWrapper {
+    display: flex;
+    padding: 0 0.6rem;
+    gap: 1rem;
+}
+
+.searchBarWrapper input {
+    color: gray;
+    border: 0;
+    text-align: start;
+    justify-content: center;
+    font-size: 0.9rem;
+    background-color: transparent;
+    outline: none;
+}
