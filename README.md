@@ -3,6 +3,22 @@
 ### 🌐 [Site](https://it-assessment.vercel.app/)
 ### 🔴 [Project Demo](https://youtu.be/BXHq99Aftkk)
 
+# Table of contents
+1. [Salient Features](#salient-features)
+1. [Background](#background)
+1. [Detailed Features](#detailed-features)
+1. [Screenshots](#screenshots)
+1. [Issues Faced](#issues-faced)
+1. [JSON Server](#more-on-json-server)
+1. [Technologies Used](#technologies-used)
+1. [Setup](#setup)
+
+# Salient features
+1. Debounced API calls while searching by country
+1. Pagination
+1. Backend using JSON server(not JSON Blob)
+1. Skip to first or last page
+
 # Background
 This learning assignment is the outcome of the interview rounds of Integral Technologies.
 
@@ -24,7 +40,7 @@ Pagination UI component from MUI was used to create the the buttons for navigati
 
 After tacking some issues which are mentioned below, the entire application was completed with a working debounced search by country and an extensive paginated view of documents.
 
-# Features
+# Detailed Features
 This single page application can be used as a dashboard for viewing all documents, clearly displayed in a beautiful table.
 
 Mentioned below are the noteworthy features of the page -
